@@ -1,0 +1,2 @@
+﻿int firstNum=int.Parse(Console.ReadLine()??"0");
+int outDayOfWeek = System.Globalization.CultureInfo.GetCultureInfo("ru-Ru").DateTimeFormat.GetDayName((DayOfWeek)Enum.GetValues(typeof(DayOfWeek)).GetValue(day))
