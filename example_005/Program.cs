@@ -3,7 +3,7 @@ string username = Console.ReadLine();
 
 if(username.ToLower() == "маша")
 {
-    Console.WriteLine("УРА БЛЯДЬ ЭТО ЖЕ МАША ЕБАНЕШЬСЯ");
+    Console.WriteLine("УРА ЭТО ЖЕ МАША");
 }
 else
 {
